@@ -1,3 +1,6 @@
 # practica_github
 
-# Facundo Nicolás González
+# Integrantes:
+
+- Facundo Nicolás González
+- Hernan Eladio Encizo
